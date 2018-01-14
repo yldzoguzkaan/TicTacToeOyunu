@@ -1,0 +1,2 @@
+# TicTacToeOyunu
+*Projenin amacı nesneye yönelik programlama mantığını kullanarak Tic Tac Toe oyununu geliştirmektir.*
