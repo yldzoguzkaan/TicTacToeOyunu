@@ -2,9 +2,9 @@
 
 *Projenin amacı nesneye yönelik programlama mantığını kullanarak Tic Tac Toe oyununu geliştirmektir.*
 
-Projede İstenen Nesneye Yönelik Programlama Dizaynı:+
- Oyunun oynanacağı oyun tahtasını bir nesne olarak düşünmelisiniz. Bu nesnenin iki boyutlu bir karakter dizisi olarak tahtayı temsil eden bir özelliği ve oyun tahtasının başlangıç değerlerinin atanacağı bir yapıcısı olmalıdır. Yapıcının iki farklı tipte tasarlanması istenmektedir.+
- Parametresiz olan yapıcı oyun tahtasını boş olarak başlatacaktır. *oyunTahtasi()*+
+Projede İstenen Nesneye Yönelik Programlama Dizaynı: +
+ Oyunun oynanacağı oyun tahtasını bir nesne olarak düşünmelisiniz. Bu nesnenin iki boyutlu bir karakter dizisi olarak tahtayı temsil eden bir özelliği ve oyun tahtasının başlangıç değerlerinin atanacağı bir yapıcısı olmalıdır. Yapıcının iki farklı tipte tasarlanması istenmektedir. +
+ Parametresiz olan yapıcı oyun tahtasını boş olarak başlatacaktır. *oyunTahtasi()* +
  Parametreli olan yapıcı ise almış olduğu iki boyutlu oyun tahtası dizisini oyun tahtası nesnesine atayacak ve oyunu bu tahta üzerinden başlatacaktır. *oyunTahtasi(char [][] oynTahtasi)*+
  Aynı zamanda oyun tahtası nesnesinin aşağıdaki işlevleri yerine getirecek metotları bulunmalıdır.+
  Oyun tahtasını döndürecek bir metot *char [][]   oyunTahtasiniAl()*+
