@@ -26,5 +26,5 @@ Projede İstenen Nesneye Yönelik Programlama Dizaynı: +
  +
  
 Yukarıda oyunu geliştirmek için ihtiyaç duyacağınız en temel metotlar verilmiştir. İhtiyaç durumunda sınıflara farklı özellikler ve metotlar ekleyebilirsiniz ya da metot parametrelerinde değişiklikler yapabilirsiniz. Aşağıda örnek oyun tahtaları gösterilmiştir +
- + 
- image::1.PNG[Giriş,width=25%]
+
+image::1.PNG[Giriş,width=25%]
